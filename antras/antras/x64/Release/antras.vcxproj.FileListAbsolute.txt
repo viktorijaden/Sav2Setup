@@ -1,0 +1,4 @@
+C:\Users\mushroomish\Documents\PROGRAMMING\sisteminis_antras_sav\antras\antras\x64\Release\antras.vcxproj.AssemblyReference.cache
+C:\Users\mushroomish\Documents\PROGRAMMING\sisteminis_antras_sav\antras\antras\x64\Release\antras.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\mushroomish\Documents\PROGRAMMING\sisteminis_antras_sav\antras\antras\x64\Release\antras.Form1.resources
+C:\Users\mushroomish\Documents\PROGRAMMING\sisteminis_antras_sav\antras\antras\x64\Release\antras.vcxproj.GenerateResource.cache

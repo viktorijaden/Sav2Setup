@@ -1,0 +1,4 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\mushroomish\Documents\PROGRAMMING\sisteminis_antras_sav\antras\antras\Form1.h(503,1): warning C4102: 'rep': unreferenced label
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  antras.vcxproj -> C:\Users\mushroomish\Documents\PROGRAMMING\sisteminis_antras_sav\antras\x64\Debug\antras.exe
